@@ -1,4 +1,4 @@
-Exploring Geospatial Data Analysis with Python : Leveraging OGC Services of SentinelHub
+**Exploring Geospatial Data Analysis with Python : Leveraging OGC Services of SentinelHub**
 
 In today's data-driven world, the realm of geospatial analysis plays a important role in extracting insights from spatial datasets. Python, with its powerful libraries such as GeoPandas, Matplotlib, and Shapely, offers a rich ecosystem for geospatial data processing. In this code, we'll go through a Python script that demonstrates various stages of geospatial data analysis, including downloading, preprocessing, clipping, applying grouping logic and smoothening the data to derive meaningful insights.
 
